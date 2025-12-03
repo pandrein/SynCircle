@@ -97,5 +97,6 @@ For closed‑source or commercial usage without the AGPL obligations, contact **
 ---
 
 ## 📄 Citation
+If you use this repository in your research and find it helpful, please consider citing our paper:
 
 Paolo Andreini, Marco Tanfoni, Simone Bonechi, Monica Bianchini. Leveraging synthetic data for zero–shot and few–shot circle detection in real–world domains. Pattern Recognition, 112407. (2025)
